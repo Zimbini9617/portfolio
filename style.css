@@ -12,7 +12,7 @@
 body {
   font-family: monospace;
   font-size: 2rem;
-  background-image: linear-gradient(to right, #00ff00, #90ee90);
+  background-image: linear-gradient(to right, #0f0, #90ee90);
 }
 
 /* HEADER */
