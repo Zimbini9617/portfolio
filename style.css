@@ -45,7 +45,9 @@ header {
 }
 
 /* MAIN */
+
 /* HERO SECTION */
+
 .hero {
   display: flex;
   justify-content: center;
@@ -74,7 +76,7 @@ header {
 /* PROJECT SECTION */
 
 .project {
-  background-image: linear-gradient(to right, #00ff00, #90ee90);
+  background-image: linear-gradient(to right, #0f0, #90ee90);
   padding: 50px 0;
 }
 
@@ -100,6 +102,7 @@ header {
   height: 350px;
   object-fit: cover;
 }
+
 .project-title {
   background-color: #303841;
   padding: 2rem 0.5rem;
