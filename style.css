@@ -4,3 +4,28 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+:root {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: monospace;
+  font-size: 2rem;
+  background-image: linear-gradient(to right, #00ff00, #90ee90);
+}
+
+/* HEADER */
+.logo {
+  font-size: 1rem;
+  font-family: monospace;
+  color: #fff;
+}
+
+.nav-list {
+  display: flex;
+  gap: 24px;
+  list-style-type: none;
+  justify-content: flex-end;
+  margin-right: 50px;
+}
