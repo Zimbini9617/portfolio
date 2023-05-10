@@ -10,7 +10,7 @@ Creating portfolio using html and css
 
 ## Live View
 
-[Portfolio]
+[Portfolio](https://app.netlify.com/sites/adorable-dasik-acc30a/)
 
 ## Built With
 
